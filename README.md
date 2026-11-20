@@ -5,7 +5,7 @@
   <a href="https://t.me/whiteCloh">Telegram</a>
 </p>
 
-I build Unity gameplay, UI and tools for mobile and browser games. My commercial work includes live events, PlayFab integrations and game animation.
+I make games in Unity and spend a lot of time getting them to feel right. I love the moment a puzzle finally clicks, a toss sets off a chain reaction, or a quick turn leaves a curl of foam on the water.
 
 ## Selected gameplay
 
