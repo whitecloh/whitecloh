@@ -5,7 +5,7 @@
   <a href="https://t.me/whiteCloh">Telegram</a>
 </p>
 
-I make games in Unity and spend a lot of time getting them to feel right. I love the moment a puzzle finally clicks, a toss sets off a chain reaction, or a quick turn leaves a curl of foam on the water.
+I’m a Unity developer who loves working on how games look and feel. I enjoy studying visual references, trying new tools, and polishing the small details players might feel without ever noticing. And yes, I’m a C# developer, so even the sparkles have a frame budget.
 
 ## Selected gameplay
 
@@ -45,4 +45,8 @@ Navigate a painted sea past rocks and lighthouses. Foam and ripples give movemen
 
 <img src="assets/candywandy-ship.gif" alt="CandyWandy gameplay showing a crab-shaped craft moving across a stylized sea past rocks and lighthouses" width="640">
 
-**Tools** · Unity 6 · C# · uGUI · DOTween · Spine · ScriptableObject · PlayFab
+## What I work with
+
+- **Gameplay and architecture** — C# gameplay systems in Unity, ScriptableObject configs, VContainer, UniTask, and LeoEcsLite.
+- **UI and feedback** — uGUI, DOTween, and Spine for interfaces, animation, and player feedback.
+- **Tools and integrations** — Unity Editor tools, Unity Profiler, Addressables for asset loading, and PlayFab for live events and backend integrations.
