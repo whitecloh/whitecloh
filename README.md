@@ -39,10 +39,10 @@ One input moves a cat and its copy under different rules. Use buttons, gates and
 
 ### CandyWandy
 
-**Naval prototype · Water and motion**
+**Top-down prototype · Stylized water and motion**
 
-Steer a small ship across a painted sea. The hull, water and wake move together to give turns and changes in speed a visible response.
+Navigate a painted sea past rocks and lighthouses. Foam and ripples give movement and turns a visible response.
 
-<img src="assets/candywandy-ship.gif" alt="CandyWandy naval prototype showing a ship turning across waves and leaving a foamy wake" width="640">
+<img src="assets/candywandy-ship.gif" alt="CandyWandy gameplay showing a crab-shaped craft moving across a stylized sea past rocks and lighthouses" width="640">
 
 **Tools** · Unity 6 · C# · uGUI · DOTween · Spine · ScriptableObject · PlayFab
